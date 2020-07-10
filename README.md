@@ -1,7 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To install bootstrap
-npm i -save bootstrap@latest in reactcards folder path
+To install bootstrap in reactcards folder path
+
+npm i -save bootstrap@latest 
+
+
 
 ## Available Scripts
 
